@@ -1,0 +1,28 @@
+#secpic {
+  text-align: right;
+  width: 22vw;
+  /* height: 40vw; */
+  /* background-color: brown; */
+}
+
+#secpic {
+  width: 100%;
+  height: 35vw;
+  margin-bottom: 0.2vw;
+  border-radius: 10px;
+}
+
+#secpic h1 {
+  letter-spacing: -1px;
+  font-weight: 100;
+  font-size: 2vw;
+}
+
+#secpic p {
+  letter-spacing: -0.1px;
+  /* word-spacing: -1px; */
+  font-weight: 500;
+  opacity: 0.8;
+  font-size: 14px;
+  margin-top: 5px;
+}
